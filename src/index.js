@@ -25,3 +25,5 @@ client.on('messageCreate', (message) => {
 })
 
 client.login(process.env.TOKEN);
+
+// cara ngidupin bot "nodemon src/index.js"
